@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://m7rbsobvs2te"]
+
+[ext_resource type="Texture2D" uid="uid://qi1ae6x8qxl4" path="res://Assets/Modern tiles_Free/Characters_free/Adam_16x16.png" id="1_gyacu"]
+
+[resource]
+atlas = ExtResource("1_gyacu")
+region = Rect2(16.0503, 9, 16.2787, 23)
